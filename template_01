@@ -1,25 +1,9 @@
 {
   "templates": [
     {
-      "name": "",
-      "sources": [
-        "https://i.imgur.com/562xSZv.png"
-      ],
-      "x": 500,
-      "y": 130
-    },
-    {
-      "name": "",
-      "sources": [
-        "https://i.imgur.com/M7hoHaX.png"
-      ],
-      "x": 1887,
-      "y": 130
-    }
-    {
       "name": "Technoblade",
       "sources": [
-        "https://preview.redd.it/25kztiorkhdb1.png?width=576&format=png&auto=webp&s=a9204830640a0d3008c59e7504f25f12d9b4a443"
+        "https://i.imgur.com/JUpJJUf.png"
       ],
       "x": 500,
       "y": 215
