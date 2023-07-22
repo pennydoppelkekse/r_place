@@ -1,14 +1,23 @@
 {
   "templates": [
     {
-      "name": "Technoblade",
+      "name": "technoblade",
       "sources": [
         "https://i.imgur.com/JUpJJUf.png"
       ],
       "x": 1501,
       "y": 222
     }
+    {
+      "name": "filow",
+      "sources": [
+        "https://imgur.com/a/uAsOZvp"
+      ],
+      "x": 691,
+      "y": 367
+    }
   ],
   "whitelist": [],
   "blacklist": []
 }
+https://imgur.com/a/uAsOZvp
