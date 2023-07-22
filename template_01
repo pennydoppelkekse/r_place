@@ -1,0 +1,22 @@
+{
+  "templates": [
+    {
+      "name": "",
+      "sources": [
+        "https://i.imgur.com/562xSZv.png"
+      ],
+      "x": 500,
+      "y": 130
+    },
+    {
+      "name": "",
+      "sources": [
+        "https://i.imgur.com/M7hoHaX.png"
+      ],
+      "x": 1887,
+      "y": 130
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
